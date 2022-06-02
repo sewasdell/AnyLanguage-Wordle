@@ -1,11 +1,11 @@
 export const CONFIG = {
   tries: 6, // This changes how many tries you get to finish the wordle
-  language: 'YourLanguageHere', // This changes the display name for your language
+  language: 'Stoney', // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
-  author: 'YourNameHere', // Put your name here so people know who made this Wordle!
-  authorWebsite: 'YourLinkHere', // Put a link to your website or social media here
-  wordListSource: 'YourDictionarySource', // Describe the source material for your words here
-  wordListSourceLink: 'YourDictionaryLink', // Put a link to the source material for your words here
+  author: 'S.E. Wasdell', // Put your name here so people know who made this Wordle!
+  authorWebsite: 'https://fnel.arts.ubc.ca/', // Put a link to your website or social media here
+  wordListSource: 'Iithga (Stoney) to English Dictionary', // Describe the source material for your words here
+  wordListSourceLink: 'https://knowledgebase.arts.ubc.ca/iithga-stoney-to-english-dictionary/', // Put a link to the source material for your words here
   //
   // THESE NEXT SETTINGS ARE FOR ADVANCED USERS
   //
