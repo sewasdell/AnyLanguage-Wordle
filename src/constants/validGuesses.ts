@@ -17,7 +17,7 @@ export const VALIDGUESSES = [
   'ddaan',
   'dduki',
   'dduwè',
-]
+  ]
 
 if (CONFIG.normalization) {
   VALIDGUESSES.forEach(
