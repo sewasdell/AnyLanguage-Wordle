@@ -7,6 +7,16 @@ export const WORDS = [
   'zhikè',
   'ayeja',
   'huyaa',
+  'ddaka',
+  'ddawi',
+  'zhikè',
+  'kihna',
+  'ahiyu',
+  'akida',
+  'akiya',
+  'ddaan',
+  'dduki',
+  'dduwè',
   ]
 
 if (CONFIG.normalization) {
